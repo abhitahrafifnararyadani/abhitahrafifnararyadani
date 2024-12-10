@@ -1,0 +1,17 @@
+body {
+  height: 4000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgba(233, 202, 224, 0.959);
+}
+#project {
+  padding-top: 3em;
+  padding-bottom: 4em;
+  background-color: rgba(233, 202, 224, 0.959);
+}
+#about{
+  padding-bottom: 3rem;
+  
+}
